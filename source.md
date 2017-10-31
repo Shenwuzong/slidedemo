@@ -70,9 +70,9 @@
 
 ### 1. 基本情况
 
-### <font color="orangered">2. 求学经历</font>
+### 2. 求学经历
 
-### ### <font color="orangered">3. 特长及爱好</font>
+### <font color="orangered">3. 特长及爱好</font>
 
 #### &nbsp; &nbsp; 3.1 特长
 #### &nbsp; &nbsp; 3.2 爱好
